@@ -5,7 +5,7 @@ Several Deep Q-learning problems with Tensorflow and Gym library.
 
 The task for the neural network is to land in the space between two flags and there are for actions allowed: do nothing or fire left, right or bottom engine. 
 
-The first episode ended with crash:
+The first episode ended with a crash:
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/LunarLander-v2/video-start.gif)
 
