@@ -3,7 +3,7 @@ Several Deep Q-learning problems with Tensorflow and Gym library.
 
 ## LunarLander-v2
 
-The task for the neural network is to land in the space between two flags and there are for actions allowed: do nothing or fire left, right or bottom engine. 
+The task for a neural network is to land in the space between two flags and there are for actions allowed: do nothing or fire left, right or bottom engine. 
 
 The first episode ended with a crash:
 
