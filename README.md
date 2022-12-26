@@ -9,7 +9,7 @@ The first episode ended with a crash:
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/LunarLander-v2/video-start.gif)
 
-After a few hundreds epochs the neural network is able to keep the lander safe. However, it is not able to land in episode time.
+After a few hundreds epochs the neural network is able to keep the lander safe. However, it is not able to land in the episode time.
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/LunarLander-v2/video-middle.gif)
 
