@@ -21,3 +21,9 @@ In the end of the traning process the landing is done without any troubles.
 ## LunarLander-v2 - Continuous 
 
 The goal is the same as in the previous problem, but this time a neural network has to choose values from a continous domain. It is solved with the Normalized Advantange Function. 
+
+## Cart Pole 
+
+A neural network has to keep the pendulum in the vertical position for as long as possible. The action space is discrete.
+
+![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/Cart_Pole/video-end.gif)
