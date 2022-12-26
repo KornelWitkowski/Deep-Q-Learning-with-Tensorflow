@@ -16,3 +16,8 @@ After a few hundreds epochs the neural network is able to keep the lander safe. 
 In the end of the traning process the landing is done without any troubles.
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/LunarLander-v2/video-end.gif)
+
+
+## LunarLander-v2 - Continuous 
+
+The goal is the same as in the previous problem, but this time a neural network has to choose values from a continous domain. It is solved with the Normalized Advantange Function. 
