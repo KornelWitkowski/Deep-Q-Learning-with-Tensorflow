@@ -30,10 +30,10 @@ A neural network has to keep the pendulum in the vertical position for as long a
 
 ## Mountatin Car
 
-In this task, the car should reach a flag in the right hill. Very beginnings of the learning process:
+In this task, the car should reach a flag in the right hill. The very beginnings of the learning process:
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/gifs/MountainCar/MC-start.gif)
 
-End of the training:
+The end of the training process:
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/gifs/MountainCar/MC-end.gif)
