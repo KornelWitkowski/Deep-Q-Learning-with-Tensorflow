@@ -20,7 +20,7 @@ In the end of the traning process the landing is done without any troubles.
 
 ## LunarLander-v2 - Continuous 
 
-The goal is the same as in the previous problem, but this time a neural network has to choose values from a continous domain. It is solved with the Normalized Advantange Function. 
+The goal is the same as in the previous problem, but this time a neural network has to choose values from a continous domain. It is solved with the Normalized Advantange Function and by discretization of the domain. 
 
 ## Cart Pole 
 
@@ -30,6 +30,10 @@ A neural network has to keep the pendulum in the vertical position for as long a
 
 ## Mountatin Car
 
+In this task, the car should reach a flag in the right hill. Very beginnings of the learning process:
+
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/gifs/MountainCar/MC-start.gif)
+
+End of the training:
 
 ![Alt Text](https://github.com/KornelWitkowski/Deep-Q-Learning-with-Tensorflow/blob/main/gifs/MountainCar/MC-end.gif)
